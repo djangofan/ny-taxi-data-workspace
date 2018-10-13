@@ -3,7 +3,11 @@ Just a workspace where I will work on some data crunching with dockerized Jupyte
 
 ## HOWTO
 
-Start it with `docker-compose up`  or  `docker-compose up -d`
+Start it by running this command from root of project folder `docker-compose up`  or  `docker-compose up -d`
+
+Once started, the former command will tell you the approximate URL you need to login to the Jupyter notebook instance.
+
+Something like this:  `http://localhost:10000/?token=<<unique-id>>`
 
 ## Source Data
 
