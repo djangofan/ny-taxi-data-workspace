@@ -1,7 +1,7 @@
 # ny-taxi-data-workspace + Docker
 Just a workspace where I will work on some data crunching with dockerized Jupyter notebooks.
 
-## HOWTO
+## HOWTO In 5-minutes
 
 Start it by running this command from root of project folder `docker-compose up`  or  `docker-compose up -d`
 
