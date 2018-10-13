@@ -49,3 +49,8 @@ Using: docker pull jupyter/datascience-notebook
     IJulia to support Julia code in Jupyter notebooks
     HDF5, Gadfly, and RDatasets packages
 
+
+## NOTES
+
+Run it at scale possibly: https://github.com/jupyterhub/kubespawner
+
