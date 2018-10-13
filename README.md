@@ -27,9 +27,11 @@ Using: docker pull jupyter/datascience-notebook
     git, emacs, jed, vim, and unzip
     The R interpreter and base environment
     IRKernel to support R code in Jupyter notebooks
-    tidyverse packages, including ggplot2, dplyr, tidyr, readr, purrr, tibble, stringr, lubridate, and broom from conda-forge
+    tidyverse packages, including ggplot2, dplyr, tidyr, readr, purrr, tibble, stringr, lubridate, and broom 
+      from conda-forge
     plyr, devtools, shiny, rmarkdown, forecast, rsqlite, reshape2, nycflights13, caret, rcurl, and randomforest packages from conda-forge
-    pandas, numexpr, matplotlib, scipy, seaborn, scikit-learn, scikit-image, sympy, cython, patsy, statsmodel, cloudpickle, dill, numba, bokeh, sqlalchemy, hdf5, vincent, beautifulsoup, protobuf, and xlrd packages
+    pandas, numexpr, matplotlib, scipy, seaborn, scikit-learn, scikit-image, sympy, cython, patsy, statsmodel, 
+      cloudpickle, dill, numba, bokeh, sqlalchemy, hdf5, vincent, beautifulsoup, protobuf, and xlrd packages
     ipywidgets for interactive visualizations in Python notebooks
     Facets for visualizing machine learning datasets
     The Julia compiler and base environment
