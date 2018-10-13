@@ -1,0 +1,19 @@
+version: "3"
+services:
+
+  jupyter:
+    image: jupyter/datascience-notebook
+    ports:
+      - "10000:8888"
+    links:
+      - postgres
+    volumes:
+      - "./work:/home/jovyan/work"
+
+  postgres:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: data
+      POSTGRES_PASSWORD: data
+      POSTGRES_DB: data

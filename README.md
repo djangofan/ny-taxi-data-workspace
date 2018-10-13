@@ -10,3 +10,7 @@ http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#jupyter-datascience-notebook
 
 
+docker pull jupyter/datascience-notebook
+
+
+
