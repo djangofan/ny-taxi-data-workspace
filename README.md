@@ -1,4 +1,4 @@
-# ny-taxi-data-workspace
+# ny-taxi-data-workspace + Docker
 Just a workspace where I will work on some data crunching with dockerized Jupyter notebooks.
 
 ## HOWTO
