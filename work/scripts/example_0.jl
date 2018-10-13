@@ -9,7 +9,6 @@
 println("Started at $(Base.source_dir())")
 
 using Dates, Base, CSV, DataFrames, CPUTime, ProfileView, Profile;
-# cd("/Users/r626095/workspace/hackathon-julia/src/julia")
 
 function reduce_dataframe(data_frame)
   return data_frame[[:vendor_id, :pickup_datetime, :dropoff_datetime, :passenger_count]]
