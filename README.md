@@ -1,6 +1,10 @@
 # ny-taxi-data-workspace
 Just a workspace where I will work on some data crunching with dockerized Jupyter notebooks.
 
+## HOWTO
+
+Start it with `docker-compose up`  or  `docker-compose up -d`
+
 ## Source Data
 
 http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
